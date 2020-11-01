@@ -2,8 +2,7 @@
 /*
  * Arnav Pawar 
  * avoid ball game
- * final game proj
- * due june 14
+ * june 14
  */
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
