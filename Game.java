@@ -5,7 +5,6 @@
 /*
  * Arnav Pawar 
  * avoid ball game
- * final game proj
  * june 14
  */
 import java.awt.Graphics;
